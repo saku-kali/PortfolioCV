@@ -244,23 +244,11 @@
                     "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
                     "nav_label": "Contact"
                 },
-                "es": {
-                    "title": "Ponte en *Contacto*",
-                    "title_short": null,
-                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
-                    "nav_label": "Contacto"
-                },
                 "fr": {
                     "title": "*Contactez*-moi",
                     "title_short": null,
                     "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!",
                     "nav_label": "Contact"
-                },
-                "zh": {
-                    "title": "*联系*我",
-                    "title_short": null,
-                    "description": "如果您有任何需要，请随时与我联系！",
-                    "nav_label": "联系方式"
                 }
             }
         }
