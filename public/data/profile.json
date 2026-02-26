@@ -1,6 +1,6 @@
 {
     "name": "Lucas Gilet",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "profilePictureUrl": "images/pictures/profil.jpg",
     "locales": {
       "en": {
         "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
@@ -64,7 +64,7 @@
             "value": "",
             "valueShort": "",
             "faIcon": "fa-solid fa-file-pdf",
-            "href": "/pdf/resume.pdf",
+            "href": "/pdf/CV.pdf",
             "copy": false
         }
     ]

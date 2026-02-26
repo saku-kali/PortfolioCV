@@ -22,7 +22,7 @@
           "img": null,
           "fallbackFaIcon": "fa-solid fa-person-running",
           "fallbackFaIconColor": "#27AE60",
-          "percentage": 25,
+          "percentage": 30,
           "locales": {
             "en": {
               "title": "Sport",
@@ -58,7 +58,7 @@
           "img": null,
           "fallbackFaIcon": "fa-solid fa-chess",
           "fallbackFaIconColor": "#E74C3C",
-          "percentage": 20,
+          "percentage": 25,
           "locales": {
             "en": {
               "title": "Strategy & Competitive Games",
@@ -76,7 +76,7 @@
           "img": null,
           "fallbackFaIcon": "fa-solid fa-paint-brush",
           "fallbackFaIconColor": "#F39C12",
-          "percentage": 25,
+          "percentage": 15,
           "locales": {
             "en": {
               "title": "Miniature Painting",

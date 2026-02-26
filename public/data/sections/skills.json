@@ -285,12 +285,12 @@
           "locales": {
             "en": {
               "title": "English",
-              "description": "Good general level, comfortable with everyday communication and reading technical documentation in English.",
+              "description": "Good general level, comfortable with everyday communication and reading technical documentation.",
               "level": "Intermediate"
             },
             "fr": {
               "title": "Anglais",
-              "description": "Bon niveau général, à l'aise dans la communication du quotidien et la lecture de documentation technique en anglais.",
+              "description": "Bon niveau général, à l'aise dans la communication du quotidien et la lecture de documentation technique.",
               "level": "Intermédiaire"
             }
           }
